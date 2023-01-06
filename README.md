@@ -1,4 +1,4 @@
-# Human-Centered Input Recognition Algorithms Project 2
+# Human-Centered Input Recognition Algorithms: Project 2
 
 * This is the final project for the Human-Centered Input Recognition Algorithms class in Spring 2022 at UF
 * The objectives of this graduate course project are two-fold: 
