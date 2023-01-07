@@ -1,5 +1,7 @@
 # Human-Centered Input Recognition Algorithms: Project 2
 
+![Zhuyin](./hcira/source/zhuyin.gif)
+
 * This is the final project for the Human-Centered Input Recognition Algorithms class in Spring 2022 at UF
 * The objectives of this graduate course project are two-fold: 
   1. to examine the performance of the $P recognizer on a new dataset called the Zhuyin Multistroke Gestures (ZMG) dataset and 
