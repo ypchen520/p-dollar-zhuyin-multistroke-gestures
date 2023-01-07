@@ -15,7 +15,7 @@
 
 ## Applications
 
-* In the ```applications``` folder, there are 4 executive files.
+* In the ```applications``` folder, there are 4 executive files (Windows).
   * For all the executive files to run successfully, the ```jre8``` folder is required. It should be placed in the same folder as the executable file.
   * ```canvas-data-collection.exe```
     * This executive file runs the canvas application for data collection.
